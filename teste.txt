@@ -1,0 +1,5 @@
+aprendendo git.
+1 verificar o status do repositorio - git status
+2 adicionar alteracoes ao controle de versao - git add -A
+3 commitar as alteracoes - git commit -m "mensagem"
+4 enviando alteracoes para o repositorio remoto - git push
